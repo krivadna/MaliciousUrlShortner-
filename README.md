@@ -15,4 +15,4 @@ curl -X POST "http://68.183.131.15:8080/shorten?api_key=ofXOboYY2Om2TTl5" -H "Co
 https://youtu.be/gWgYsiEuMwQ?si=Yj19r0dyqfrVaXl9
 
 # Contact
-https://t.me/kalkimahavatar
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kalkimahavatar)
