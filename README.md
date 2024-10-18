@@ -11,7 +11,7 @@ curl -X POST "http://68.183.131.15:8080/shorten?api_key=ofXOboYY2Om2TTl5" -H "Co
 🚀 Stay safe and happy shortening! 😊
 
 # Demo 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/si/TL61IPW3MaBCjAUI/0.jpg)](https://youtu.be/gWgYsiEuMwQ?si=TL61IPW3MaBCjAUI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gWgYsiEuMwQ/0.jpg)](https://youtu.be/gWgYsiEuMwQ?si=TL61IPW3MaBCjAUI)
 
 # Contact
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kalkimahavatar)
