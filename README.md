@@ -2,11 +2,12 @@
 
 ![hippo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-🌐 Encrypted Link Masking 🔒 
+🌐 Encrypted Link Masking on https 🔒 
 
 🌟 Shorten any malicious file-carrying URL through a simple curl command and easily bypass blacklist filter ! Bypass virus total, bitly and https://redirectdetective.com
 
-curl -X POST "http://68.183.131.15:8080/shorten?api_key=ofXOboYY2Om2TTl5" -H "Content-Type: application/json" -d '{"url": "http://169.1.16.29/Swift-Stage1-Obfuscated.exe"}'
+curl -X POST "https://sub2.kalkikrivadna.com/shorten?api_key=gHosQ19I7d0KPwJ5" -H "Content-Type: application/json" -d '{"url": "https://example.com"}'
+{"short_url": "https://sub2.kalkikrivadna.com/short.url/P6f5wxjgQcBVnx3t"}~ $
 
 just change url in above command with your url
 
