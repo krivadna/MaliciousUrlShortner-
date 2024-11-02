@@ -6,7 +6,7 @@
 
 🌟 Shorten any malicious file-carrying URL through a simple curl command and easily bypass blacklist filter ! Bypass virus total, bitly and https://redirectdetective.com
 
-curl -X POST "https://sub2.kalkikrivadna.com/service1/shorten?api_key=gHosQ19I7d0KPwJ5" -H "Content-Type: application/json" -d '{"url": "https://example.com"}'
+curl -X POST "https://sub2.kalkikrivadna.com/service1/shorten?api_key=gHosQ19I7d0KgfJ5" -H "Content-Type: application/json" -d '{"url": "https://example.com"}'
 
 just change url in above command with your url
 
