@@ -2,7 +2,7 @@
 
 ![hippo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-🌐 Encrypted Link Masking on https 🔒 
+🌐 Encrypted Link Masking on Secured Network 🛜 
 
 🌟 Shorten any malicious file-carrying URL through a simple curl command and easily bypass blacklist filter ! Bypass virus total, bitly, redirectdetective and more..
 
