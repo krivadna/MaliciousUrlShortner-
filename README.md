@@ -4,15 +4,19 @@
 
 🌐 Encrypted Link Masking on https 🔒 
 
-🌟 Shorten any malicious file-carrying URL through a simple curl command and easily bypass blacklist filter ! Bypass virus total, bitly and https://redirectdetective.com
+🌟 Shorten any malicious file-carrying URL through a simple curl command and easily bypass blacklist filter ! Bypass virus total, bitly, redirectdetective and more..
+
+use command 👇
 
 curl -X POST "https://sub2.kalkikrivadna.com/service1/shorten?api_key=gHosQ19I7d0KgfJ5" -H "Content-Type: application/json" -d '{"url": "https://example.com"}'
 
 just change url in above command with your url
 
-📩 Message at our Telegram id to get your trial API key!
+📩 Message at our discord id to get your trial API key!
 
 🚀 Stay safe and happy shortening! 😊
+
+Find more details at https://kalkikrivadna.com 
 
 # Demo 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/gWgYsiEuMwQ/0.jpg)](https://youtu.be/gWgYsiEuMwQ?si=TL61IPW3MaBCjAUI)
