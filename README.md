@@ -4,15 +4,13 @@
 
 🌐 Encrypted Link Masking on Secured Network 🛜 
 
+Only URL shortner that will shorten any extension over secured network is now available through web.
+
 🌟 Shorten any malicious file-carrying URL through a simple curl command and easily bypass blacklist filter ! Bypass virus total, bitly, redirectdetective and more..
 
-use command 👇
+DIREDT ACCESS 
 
-curl -X POST "https://sub2.kalkikrivadna.com/service1/shorten?api_key=gHosQ19I7d0KgfJ5" -H "Content-Type: application/json" -d '{"url": "https://example.com"}'
-
-just change url in above command with your url
-
-📩 Message at our discord id to get your trial API key!
+https://sub1.kalkikrivadna.com:5000
 
 🚀 Stay safe and happy shortening! 😊
 
