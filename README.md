@@ -6,7 +6,7 @@
 
 Only URL shortner that will shorten any extension over secured network is now available through web.
 
-🌟 Shorten any malicious file-carrying URL through a simple curl command and easily bypass blacklist filter ! Bypass virus total, bitly, redirectdetective and more..
+🌟 Shorten any malicious file-carrying URL through pur web interface and easily bypass blacklist filter ! Bypass virus total, bitly, redirectdetective and more..
 
 DIRECT ACCESS 
 
