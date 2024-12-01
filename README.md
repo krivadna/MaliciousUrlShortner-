@@ -10,7 +10,7 @@ Only URL shortner that will shorten any extension over secured network is now av
 
 DIRECT ACCESS 
 
-https://sub1.kalkikrivadna.com:5000
+(https://kalkikrivadna.com/u22.shtml)
 
 🚀 Stay safe and happy shortening! 😊
 
